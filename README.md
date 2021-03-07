@@ -10,9 +10,14 @@ conda create -n PFAFN python=3.6
 source activate PFAFN     or     conda activate PFAFN
 
 conda install pytorch=1.1.0 torchvision=0.3.0 cudatoolkit=9.0 -c pytorch
+
 conda install cupy     or     pip install cupy==6.0.0
 
 pip install opencv-python
+
+git clone git@github.com:geyuying/PF-AFN.git
+
+cd PF-AFN
 
 ## Our Test Envirenment
 anaconda3
