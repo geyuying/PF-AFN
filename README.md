@@ -1,6 +1,6 @@
 # Parser-Free Virtual Try-on via Distilling Appearance Flows, CVPR 2021
 Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling Appearance Flows'
-
+![image](https://github.com/geyuying/PF-AFN/blob/main/show/compare.jpg?raw=true)
 [[Checkpoints]](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing)
 ## Installation
 conda create -n 1993 python=3.6
