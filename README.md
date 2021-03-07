@@ -5,12 +5,11 @@ Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling App
 
 [[Checkpoints]](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing)
 ## Installation
-conda create -n 1993 python=3.6
+conda create -n PFAFN python=3.6
 
-source activate 1993     or     conda activate 1993
+source activate PFAFN     or     conda activate PFAFN
 
-conda install pytorch=1.1.0 torchvision=0.3.0 cudatoolkit=9.0 -c pytorchhttps://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing
-
+conda install pytorch=1.1.0 torchvision=0.3.0 cudatoolkit=9.0 -c pytorch
 conda install cupy     or     pip install cupy==6.0.0
 
 pip install opencv-python
