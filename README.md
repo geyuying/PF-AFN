@@ -37,9 +37,8 @@ git clone https://github.com/geyuying/PF-AFN.git
 
 cd PF-AFN
 
-## Test With the Models
-1. First, you need to download the checkpoints from [google drive](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing) and put the models under the folder "checkpoints/PFAFN". 
-2. The "dataset" folder contains the images for test, and 'demo.txt' records the test pairs.
+## Run the demo
+1. First, you need to download the checkpoints from [google drive](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing) and put the folder "PFAFN" under the folder "checkpoints". The foler "checkpoints/PFAFN" shold contain "warp_model_final.pth" and "gen_model_final.pth". 
+2. The "dataset" folder contains the demo images for test, and 'demo.txt' records the test pairs.
 3. To test with the models, run **test.sh** and the results will be saved in the folder "results".
-4. To reproduce our results from the saved model, your test environment should be the same as our test environment. 
-5. **In oder to test the model with our checkpoints, please make sure that your environment is the same as our test envirenment**.
+4. **To reproduce our results from the saved model, your test environment should be the same as our test environment.** 
