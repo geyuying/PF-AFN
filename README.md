@@ -54,3 +54,13 @@ cd PF-AFN
 The use of this code is RESTRICTED to non-commercial research and educational purposes.
 
 ## Citation
+```
+@misc{ge2021parserfree,
+      title={Parser-Free Virtual Try-on via Distilling Appearance Flows}, 
+      author={Yuying Ge and Yibing Song and Ruimao Zhang and Chongjian Ge and Wei Liu and Ping Luo},
+      year={2021},
+      eprint={2103.04559},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
