@@ -1,7 +1,7 @@
 # Parser-Free Virtual Try-on via Distilling Appearance Flows, CVPR 2021
 Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling Appearance Flows'
 
-![image](https://github.com/geyuying/PF-AFN/blob/main/show/compare.jpg?raw=true)
+![image](https://github.com/geyuying/PF-AFN/blob/main/show/compare_both.jpg?raw=true)
 
 [[Paper]](https://arxiv.org/abs/2103.04559)
 
@@ -46,6 +46,7 @@ cd PF-AFN
 4. To test with the saved model, run **test.sh** and the results will be saved in the folder "results".
 5. **To reproduce our results from the saved model, your test environment should be the same as our test environment, especifically for the version of cupy.** 
 
+![image](https://github.com/geyuying/PF-AFN/blob/main/show/compare.jpg?raw=true)
 ## Dataset
 1. [VITON](https://github.com/xthan/VITON) contains a training set of 14,221 image pairs and a test set of 2,032 image pairs, each of which has a front-view woman photo and a top clothing image with the resolution 256 x 192. Our saved model is trained on the VITON training set and tested on the VITON test set.
 2. To test our saved model on the complete VITON test set, you can download [VITON_test](https://drive.google.com/file/d/1Y7uV0gomwWyxCvvH8TIbY7D9cTAUy6om/view?usp=sharing).
