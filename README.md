@@ -56,12 +56,10 @@ The use of this code is RESTRICTED to non-commercial research and educational pu
 
 ## Citation
 ```
-@misc{ge2021parserfree,
-      title={Parser-Free Virtual Try-on via Distilling Appearance Flows}, 
-      author={Yuying Ge and Yibing Song and Ruimao Zhang and Chongjian Ge and Wei Liu and Ping Luo},
-      year={2021},
-      eprint={2103.04559},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{ge2021parser,
+  title={Parser-Free Virtual Try-on via Distilling Appearance Flows},
+  author={Ge, Yuying and Song, Yibing and Zhang, Ruimao and Ge, Chongjian and Liu, Wei and Luo, Ping},
+  journal={arXiv preprint arXiv:2103.04559},
+  year={2021}
 }
 ```
