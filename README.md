@@ -29,9 +29,9 @@ conda create -n tryon python=3.6
 
 conda activate tryon
 
-conda install pytorch=1.1.0 torchvision=0.3.0 cudatoolkit=9.0 -c pytorch
+conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
 
-pip install cupy==6.0.0
+conda install -c anaconda cupy==6.0.0
 
 pip install opencv-python
 
