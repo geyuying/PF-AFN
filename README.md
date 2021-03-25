@@ -7,6 +7,8 @@ Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling App
 
 [[Checkpoints]](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing)
 
+**The training code will be released on Mar 25th.**
+
 ## Our Test Environment
 anaconda3
 
