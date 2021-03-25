@@ -1,6 +1,9 @@
 # Parser-Free Virtual Try-on via Distilling Appearance Flows, CVPR 2021
 Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling Appearance Flows'
 
+
+**The training code has been released.**
+
 ![image](https://github.com/geyuying/PF-AFN/blob/main/show/compare_both.jpg?raw=true)
 
 [[Paper]](https://arxiv.org/abs/2103.04559)       [[Supplementary Material]](https://github.com/geyuying/PF-AFN/blob/main/PFAFN_supp.pdf)
