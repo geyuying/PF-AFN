@@ -1,0 +1,1 @@
+Please put the downloaded checkpoints folder "PFAFN" under the folder "checkpoints".
