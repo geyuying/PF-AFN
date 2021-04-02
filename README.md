@@ -73,7 +73,7 @@ cd PF-AFN
 The use of this code is RESTRICTED to non-commercial research and educational purposes.
 
 ## Acknowledgement
-Our code is based on the implementation of "Clothflow: A flow-based model for clothed person generation" (See the citation below), including the implementation of the feature pyramid networks (FPN) and the ResUnetGenerator, the cascaded strcuture to predict the appearance flows. Thanks for their excellent work! If you use our code, please also cite their work as below.
+Our code is based on the implementation of "Clothflow: A flow-based model for clothed person generation" (See the citation below), including the implementation of the feature pyramid networks (FPN), the ResUnetGenerator and the cascaded strcuture to predict the appearance flows. Thanks for their excellent work! If you use our code, please also cite their work as below.
 
 
 ## Citation
