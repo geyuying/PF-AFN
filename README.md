@@ -72,6 +72,10 @@ cd PF-AFN
 ## License
 The use of this code is RESTRICTED to non-commercial research and educational purposes.
 
+## Acknowledgement
+Our code is based on the implementation of "Clothflow: A flow-based model for clothed person generation" (See the citation below).
+
+
 ## Citation
 If our code is helpful to your work, please cite:
 ```
