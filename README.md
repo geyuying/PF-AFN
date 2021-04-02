@@ -73,11 +73,21 @@ cd PF-AFN
 The use of this code is RESTRICTED to non-commercial research and educational purposes.
 
 ## Citation
+If our code is helpful to your work, please cite:
 ```
 @article{ge2021parser,
   title={Parser-Free Virtual Try-on via Distilling Appearance Flows},
   author={Ge, Yuying and Song, Yibing and Zhang, Ruimao and Ge, Chongjian and Liu, Wei and Luo, Ping},
   journal={arXiv preprint arXiv:2103.04559},
   year={2021}
+}
+```
+```
+@inproceedings{han2019clothflow,
+  title={Clothflow: A flow-based model for clothed person generation},
+  author={Han, Xintong and Hu, Xiaojun and Huang, Weilin and Scott, Matthew R},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={10471--10480},
+  year={2019}
 }
 ```
