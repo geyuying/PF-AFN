@@ -6,7 +6,7 @@ Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling App
 
 ![image](https://github.com/geyuying/PF-AFN/blob/main/show/compare_both.jpg?raw=true)
 
-[[Paper]](https://arxiv.org/abs/2103.04559)       [[Supplementary Material]](https://github.com/geyuying/PF-AFN/blob/main/PFAFN_supp.pdf)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf)       [[Supplementary Material]](https://github.com/geyuying/PF-AFN/blob/main/PFAFN_supp.pdf)
 
 [[Checkpoints for Test]](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing)
 
